@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It takes the longest at > 4 seconds for reversed50000.txt as it has to itterate through 50000 times.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is always the fastest for an unsorted list.
+
+sort3 uses: Selection Sort
+
+How do you know?: It is always the slowest for a sorted list
